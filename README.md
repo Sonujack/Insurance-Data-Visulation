@@ -73,9 +73,8 @@ An interactive dashboard has been created using Power BI to visualize key metric
 ---
 
 ## 📁 Project Files
-- `customer_shopping_behavior.csv` → Dataset  
-- `customer_behavior_sql_queries.sql` → SQL queries  
-- `customer_behavior_dashboard.pbix` → Power BI Dashboard  
+- `InsuranceData.csv` → Dataset  
+- `insurance.pbix` → Power BI Dashboard  
 - `README.md` → Project Documentation  
 
 ---
