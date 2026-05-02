@@ -60,7 +60,7 @@ An interactive dashboard has been created using Power BI to visualize key metric
 
 ## 📷 Dashboard Preview
 
-![Dashboard](./dashboard.png)
+![Dashboard](./Dashboard.png)
 
 ---
 
